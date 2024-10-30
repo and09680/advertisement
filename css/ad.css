@@ -1,0 +1,54 @@
+@font-face{
+font-family: "Roboto";
+src: url("../fonts/Roboto.woff") format("truetype");
+}
+
+
+
+
+
+.cover{ 
+	width:336px ;
+	height:280px ;
+	border: solid black;
+	position: absolute;
+	left: 37% ;
+	top: 30%;
+	background: url("../images/grassplate.jpg") fixed center no-repeat;
+ }
+
+ .title{
+ 	font-family: "Roboto";
+ 	font-size: 1.5em;
+ 	color: yellow;
+ 	margin-left: 25%;
+ 	display: inline-block;
+ 	background-color: red;
+
+ }
+.title2{
+	font-family: "Roboto";
+	font-size: 1.9em;
+	color: yellow;
+	margin-top: 67%;
+	margin-left: 1.5%;
+	display: inline-block;
+ 	background-color: red;
+ }
+
+ .button{
+ 	font-family: "Roboto";
+ 	font-size: 1.5em;
+ 	color: black;
+ 	display: inline-block;
+ 	background-color: lightblue;
+ 	border: solid black 2px;
+ 	padding: 4px;
+ 	text-align: center;
+ 	text-decoration: none;
+ 	position: absolute;
+ 	margin-left: -20%;
+ 	margin-top: 49%;
+ }
+
+
